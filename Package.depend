@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1620646194 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\main.cpp
+	<iostream>
+	<string>
+	"user.h"
+	"SelfCheck.h"
+	"CashierCheck.h"
+	"info.h"
+
+1620644382 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\selfcheck.cpp
+	"SelfCheck.h"
+	"user.h"
+	<iostream>
+
+1620313542 c:\users\mnimi\documents\20xt28 oop lab\package\package\selfcheck.h
+	"user.h"
+	"info.h"
+
+1620645599 c:\users\mnimi\documents\20xt28 oop lab\package\package\user.h
+	<string>
+	"info.h"
+
+1620643571 c:\users\mnimi\documents\20xt28 oop lab\package\package\info.h
+
+1620645487 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\user.cpp
+	"user.h"
+	"user.h"
+	"info.h"
+	<iostream>
+	<string>
+
+1620645986 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\cashiercheck.cpp
+	"CashierCheck.h"
+	"user.h"
+	<iostream>
+	<string>
+
+1620645999 c:\users\mnimi\documents\20xt28 oop lab\package\package\cashiercheck.h
+	"user.h"
+	"info.h"
+
