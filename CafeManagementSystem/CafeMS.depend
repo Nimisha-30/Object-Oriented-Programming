@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1620460254 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\cashiercheck.cpp
+	"cashiercheck.h"
+	"user.h"
+	<iostream>
+	<string>
+
+1620460108 c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\cashiercheck.h
+	"user.h"
+	"userinfo.h"
+
+1620460083 c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\user.h
+	<string>
+	"userinfo.h"
+
+1620460064 c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\userinfo.h
+
+1620460330 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\main.cpp
+	<iostream>
+	<string>
+	"user.h"
+	"selfcheck.h"
+	"cashiercheck.h"
+	"userinfo.h"
+
+1620460126 c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\selfcheck.h
+	"user.h"
+	"userinfo.h"
+
+1620460218 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\selfcheck.cpp
+	"selfcheck.h"
+	"user.h"
+	<iostream>
+
+1620460198 source:c:\users\mnimi\documents\20xt28 oop lab\package\package\cafems\user.cpp
+	"user.h"
+	"userinfo.h"
+	<iostream>
+	<string>
+
